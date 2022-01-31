@@ -1,0 +1,128 @@
+baseURL: "https://examplesite.com/"
+title: fuku
+paginate: 5
+theme: PaperMod
+
+enableEmoji : true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: ExampleSite
+  description: "ExampleSite description"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: ["Risa Fukuda", "福田理紗"]
+  # author: ["Me", "You"] # multiple authors
+  images: ["profire01.jpg"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f92a.png"
+    favicon16x16: "https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f92a.png"
+    favicon32x32: "https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f92a.png"
+    apple_touch_icon: "https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f92a.png"
+    safari_pinned_tab: "https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f92a.png"
+
+  label:
+    text: "🏡 Home"
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Hey 🤟 I'm fuku.
+    subtitle: "しがないエンジニア"
+    imageUrl: "https://scontent-nrt1-1.xx.fbcdn.net/v/t1.18169-9/13221628_564707460376258_1954728868202690252_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=uDE-SPXVG3UAX9XvSSb&_nc_ht=scontent-nrt1-1.xx&oh=00_AT_-uXsc1g-xYx_2eqvDXZaxybyqX0SZKrvrF7xAoGSdyA&oe=621E4E80"
+    imageWidth: 200
+    imageHeight: 200
+    imageTitle: my image
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/wimkmb"
+    - name: facebook
+      url: "https://www.facebook.com/risa.fukuda122"
+    - name: github
+      url: "https://github.com/radkmb"
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  editPost:
+    URL: "https://github.com/radkmb/portfolio/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: 
+      name: 🧑🏼‍💻 About me
+      url: /about/
+      weight: 10
+    - identifier: resume
+      name: 📃 resume
+      url: /resume/
+      weight: 20
+    - identifier: post
+      name: 📌 post
+      url: /post/
+      weight: 30
+    - identifier: search
+      name: 🔍 search
+      url: /search/
+      weight: 30
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         style: monokai
