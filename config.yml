@@ -1,4 +1,6 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://radkmb.github.io/portfolio/"
+canonifyurls: true
+publishDir : "docs"
 title: fuku
 paginate: 5
 theme: PaperMod
