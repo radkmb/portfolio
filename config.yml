@@ -105,19 +105,19 @@ menu:
   main:
     - identifier: profile
       name: 🧑🏼‍💻 profile
-      url: /profile/
+      url: profile
       weight: 5
     - identifier: resume
       name: 📃 resume
-      url: /resume/
+      url: resume
       weight: 10
     - identifier: post
       name: 📌 post
-      url: /post/
+      url: post
       weight: 15
     - identifier: search
       name: 🔍 search
-      url: /search/
+      url: search/
       weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
