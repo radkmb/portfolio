@@ -105,7 +105,7 @@ menu:
   main:
     - identifier: profile
       name: 🧑🏼‍💻 profile
-      url: /about/
+      url: /profile/
       weight: 5
     - identifier: resume
       name: 📃 resume
