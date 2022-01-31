@@ -22,7 +22,7 @@ params:
   title: portfolio
   description: "🤟"
   keywords: [Blog, Portfolio, PaperMod]
-  author: ["Risa Fukuda", "福田理紗"]
+  author: ["Risa Fukuda"]
   # author: ["Me", "You"] # multiple authors
   images: ["profire01.jpg"]
   DateFormat: "January 2, 2006"
