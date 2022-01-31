@@ -10,15 +10,6 @@
     </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://radkmb.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Search</title>
-      <link>https://radkmb.github.io/portfolio/search/</link>
-      <pubDate>Mon, 31 Jan 2022 21:55:11 +0900</pubDate>
-      
-      <guid>https://radkmb.github.io/portfolio/search/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Resume</title>
       <link>https://radkmb.github.io/portfolio/resume/</link>
       <pubDate>Mon, 31 Jan 2022 21:44:45 +0900</pubDate>
@@ -35,6 +26,7 @@
       <guid>https://radkmb.github.io/portfolio/profile/</guid>
       <description>🧑🏼‍💻 Profile </description>
     </item>
+    
     
   </channel>
 </rss>
