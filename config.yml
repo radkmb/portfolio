@@ -103,7 +103,7 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: 
+    - identifier: profile
       name: 🧑🏼‍💻 profile
       url: /about/
       weight: 5
