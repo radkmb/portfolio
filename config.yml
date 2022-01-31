@@ -19,8 +19,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: portfolio
+  description: "🤟"
   keywords: [Blog, Portfolio, PaperMod]
   author: ["Risa Fukuda", "福田理紗"]
   # author: ["Me", "You"] # multiple authors
