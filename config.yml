@@ -21,7 +21,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: portfolio
   description: "🤟"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [福田理紗, Risa Fukuda, Blog, Portfolio, PaperMod]
   author: ["Risa Fukuda"]
   # author: ["Me", "You"] # multiple authors
   images: ["profire01.jpg"]
