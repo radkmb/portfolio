@@ -11,21 +11,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 01 Feb 2022 00:19:34 +0900</lastBuildDate><atom:link href="https://radkmb.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Resume</title>
+      <link>https://radkmb.github.io/portfolio/resume/</link>
+      <pubDate>Tue, 01 Feb 2022 21:44:45 +0900</pubDate>
+      
+      <guid>https://radkmb.github.io/portfolio/resume/</guid>
+      <description>📃 職歴 2016年 4月 日本マイクロソフト株式会社 入社  新卒入社なので3ヶ月研修 CSSのテクニカルサポートエンジニア  企業顧客様からのWindows OSの技術的なお問い合わせに電話かメールで回答    2020年 8月 株式会社ファンコミュニケーションズ 入社  プロダクト開発部 開発2課 エンジニア  A8.netの改修 WorkAnyの開発    </description>
+    </item>
+    
+    <item>
       <title>ブログ始めてみた</title>
       <link>https://radkmb.github.io/portfolio/posts/first/</link>
       <pubDate>Tue, 01 Feb 2022 00:19:34 +0900</pubDate>
       
       <guid>https://radkmb.github.io/portfolio/posts/first/</guid>
       <description>何か役立ったことをメモしていきます。</description>
-    </item>
-    
-    <item>
-      <title>Resume</title>
-      <link>https://radkmb.github.io/portfolio/resume/</link>
-      <pubDate>Mon, 31 Jan 2022 21:44:45 +0900</pubDate>
-      
-      <guid>https://radkmb.github.io/portfolio/resume/</guid>
-      <description>📃 職歴 </description>
     </item>
     
     <item>
