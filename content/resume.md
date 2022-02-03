@@ -15,3 +15,8 @@ draft: false
 - プロダクト開発部 開発2課 エンジニア
 	- A8.netの改修
 	- [WorkAny](https://workany.jp/)の開発
+
+## 📚 資格
+- 基本情報技術者試験
+- ITパスポート
+- TOEIC720
