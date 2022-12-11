@@ -60,7 +60,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Hey 🤟 I'm fuku.
     subtitle: "Software Engineer"
-    imageUrl: "https://scontent-nrt1-1.xx.fbcdn.net/v/t1.18169-9/13221628_564707460376258_1954728868202690252_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=uDE-SPXVG3UAX9XvSSb&_nc_ht=scontent-nrt1-1.xx&oh=00_AT_-uXsc1g-xYx_2eqvDXZaxybyqX0SZKrvrF7xAoGSdyA&oe=621E4E80"
+    imageUrl: "profile.jpg"
     imageWidth: 200
     imageHeight: 200
     imageTitle: my image
