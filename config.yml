@@ -24,7 +24,7 @@ params:
   keywords: [福田理紗, Risa Fukuda, Blog, Portfolio, PaperMod]
   author: ["Risa Fukuda"]
   # author: ["Me", "You"] # multiple authors
-  images: ["profire01.jpg"]
+  images: ["profile.jpg"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
