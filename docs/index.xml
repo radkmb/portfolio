@@ -11,12 +11,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 01 Feb 2022 00:19:34 +0900</lastBuildDate><atom:link href="https://radkmb.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Profile</title>
+      <link>https://radkmb.github.io/portfolio/profile/</link>
+      <pubDate>Sun, 18 Dec 2022 12:13:50 +0900</pubDate>
+      
+      <guid>https://radkmb.github.io/portfolio/profile/</guid>
+      <description>🧑🏼‍💻 Profile 見ていただきありがとうございます！😊
+以下の観点で自己紹介します！
+ 💻 ソフトウェアエンジニアとして 🚶 Risa Fukudaについて 🎓 学歴  💻 ソフトウェアエンジニアとして  中学3年生頃からHTML/CSSでホームページを作成することが好きになり、WordPressでホームページを作成していた 大学生の頃にはハッカソンに参加し、講義で学ぶこと以外のRubyやPython,Swiftなどの言語を学ぶ 新卒で日本マイクロソフト株式会社のTechnical Specialistに所属  WindowsOSのストレージ,クラスター,Azure,認証基盤についてキャッチアップしつつ企業顧客様のお問い合わせに回答していた   Webエンジニアとしてコードを書きたくなったため、42Tokyoというエンジニア養成機関の本科生になりコードを書くリハビリをした 株式会社ファンコミュニケーションズにWebエンジニアとして入社  主にJava,PHP,JavaSprict,Spring Boot,Laravel,CodeIgniter4,Vue.jsを使っている    🚶 Risa Fukudaについて  新しいこと大好き ものづくり大好き 朝は弱い お酒弱い ゲーム好き🎮  Splatoon2, 3好き   パワハラでうつ病になったことあり  詳しくはこちら  炎上した記事は消しました      🎓 学歴 2012-2016 関西大学 総合情報学部 総合情報学科</description>
+    </item>
+    
+    <item>
       <title>Resume</title>
       <link>https://radkmb.github.io/portfolio/resume/</link>
-      <pubDate>Tue, 01 Feb 2022 21:44:45 +0900</pubDate>
+      <pubDate>Sun, 18 Dec 2022 12:10:00 +0900</pubDate>
       
       <guid>https://radkmb.github.io/portfolio/resume/</guid>
-      <description>📃 職歴 2016年 4月 日本マイクロソフト株式会社 入社  新卒入社なので3ヶ月研修 CSSのテクニカルサポートエンジニア  企業顧客様からのWindows OSの技術的なお問い合わせに電話かメールで回答    2020年 8月 株式会社ファンコミュニケーションズ 入社  プロダクト開発部 開発2課 エンジニア  A8.netの改修 WorkAnyの開発    📚 資格  基本情報技術者試験 ITパスポート TOEIC720  </description>
+      <description>📃 職歴 2016年 4月 日本マイクロソフト株式会社 入社  新卒入社なので3ヶ月研修 CSSのテクニカルサポートエンジニア  企業顧客様からのWindows OSの技術的なお問い合わせに電話かメールで回答    2020年 8月 株式会社ファンコミュニケーションズ 入社  A8事業部 アプリ開発2課 エンジニア  A8.netの改修 WorkAnyの開発 A8.netの広告主管理画面リニューアルPJ(現在進行中)    📚 資格  基本情報技術者試験 応用情報技術者試験 ITパスポート TOEIC720  </description>
     </item>
     
     <item>
@@ -26,17 +37,6 @@
       
       <guid>https://radkmb.github.io/portfolio/posts/first/</guid>
       <description>何か役立ったことをメモしていきます。</description>
-    </item>
-    
-    <item>
-      <title>Profile</title>
-      <link>https://radkmb.github.io/portfolio/profile/</link>
-      <pubDate>Mon, 31 Jan 2022 20:07:40 +0900</pubDate>
-      
-      <guid>https://radkmb.github.io/portfolio/profile/</guid>
-      <description>🧑🏼‍💻 Profile 見ていただきありがとうございます！😊
-以下の観点で自己紹介します！
- 💻 ソフトウェアエンジニアとして 🚶 Risa Fukudaについて 🎓 学歴  💻 ソフトウェアエンジニアとして  中学3年生頃からHTML/CSSでホームページを作成することが好きになり、WordPressでホームページを作成していた 大学生の頃にはハッカソンに参加し、講義で学ぶこと以外のRubyやPython,Swiftなどの言語を学ぶ 新卒で日本マイクロソフト株式会社のTechnical Specialistに所属  WindowsOSのストレージ,クラスター,Azure,認証基盤についてキャッチアップしつつ企業顧客様のお問い合わせに回答していた   Webエンジニアとしてコードを書きたくなったため、42Tokyoというエンジニア養成機関の本科生になりコードを書くリハビリをした 株式会社ファンコミュニケーションズにWebエンジニアとして入社  主にJava,PHP,JavaSprict,Spring Boot,Laravel,Vue.jsを使っている    🚶 Risa Fukudaについて  新しいこと大好き ものづくり大好き 朝は弱い お酒弱い ゲーム好き🎮  Splatoon2好き   パワハラでうつ病になったことあり  詳しくはこちら  炎上した記事は消しました      🎓 学歴 2012-2016 関西大学 総合情報学部 総合情報学科</description>
     </item>
     
     

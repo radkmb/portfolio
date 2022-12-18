@@ -1,6 +1,6 @@
 ---
 title: "Profile"
-date: 2022-01-31T20:07:40+09:00
+date: 2022-12-18T12:13:50+09:00
 draft: false
 ---
 
@@ -19,7 +19,7 @@ draft: false
 	- WindowsOSのストレージ,クラスター,Azure,認証基盤についてキャッチアップしつつ企業顧客様のお問い合わせに回答していた
 - Webエンジニアとしてコードを書きたくなったため、[42Tokyo](https://42tokyo.jp/)というエンジニア養成機関の本科生になりコードを書くリハビリをした
 - 株式会社ファンコミュニケーションズにWebエンジニアとして入社
-	- 主に`Java`,`PHP`,`JavaSprict`,`Spring Boot`,`Laravel`,`Vue.js`を使っている
+	- 主に`Java`,`PHP`,`JavaSprict`,`Spring Boot`,`Laravel`,`CodeIgniter4`,`Vue.js`を使っている
 
 ### 🚶 Risa Fukudaについて
 - 新しいこと大好き
@@ -27,7 +27,7 @@ draft: false
 - 朝は弱い
 - お酒弱い
 - ゲーム好き🎮
-	- Splatoon2好き
+	- Splatoon2, 3好き
 - パワハラでうつ病になったことあり
 	- 詳しくは[こちら](https://b.hatena.ne.jp/entry/s/medium.com/@risafukuda/b46fa7a40706) 
 		- 炎上した記事は消しました
